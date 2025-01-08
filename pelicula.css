@@ -1,0 +1,40 @@
+body {
+	 background-color: #e6e8e5;
+	color: black;
+	font-family: Broadway;
+	margin: 0;
+	padding: 0;
+}
+/* edicion de mi encabezado */
+header {
+	text-align: center;
+	margin-top: 20px; /* separa mi encabezado de la parte superior */
+}
+section {
+	margin: 20px; /* separar mi seccion */
+	padding: 15px;/* diseño mas espacioso */
+	background-color: #777c6d; /* fondo de mi seccion */
+	border-radius: 20px; /* redondeo al margen de mi seccion */
+}
+h2{
+	border-bottom: 3px solid red; /* Linea de subrrayado a mis encabesados */
+	padding-bottom: 8px;
+	text-align: center;
+}
+ul {
+	list-style: square; /* las viñetas seran cuadros */
+	padding-left: 20px; /* desplazar mi lista a la derecha */
+}
+button {
+	 background-color: #e6e8e5;
+	color: black;
+	font-family: Broadway;
+	text-decoration: none;
+	padding: 10px;
+	font-weight: 600;
+	font-size: 20px;
+	color: #ffffff;
+	background-color: transparent;
+	border-radius: 0px;
+		border: 2px solid #EDD8D8;
+	
